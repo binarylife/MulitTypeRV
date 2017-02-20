@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--通栏广告-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    >
+
+  <TextView
+      android:id="@+id/sdv_content"
+      android:layout_width="match_parent"
+      android:layout_height="150dp"
+      android:layout_marginTop="10dp"
+     android:text="2016年2月19日，习近平总书记来到中央主要新闻单位调研，主持召开党的新闻舆论工作座谈会并发表重要讲话。习总书记深刻阐明党的新闻舆论工作的重要作用、职责使命和实践路径，科学回答了事关新闻事业长远发展的一系列带有根本性、战略性、全局性的重大问题，为做好新形势下党的新闻舆论工作注入强大思想动力。党的十八大以来，习近平总书记高度重视宣传思想工作，先后在全国宣传思想工作会议、党的新闻舆论工作座谈会等重要会议上作出一系列重要论述，提出许多新思想新观点新要求，丰富和发展了马克思主义新闻理论，为做好宣传思想工作指明了前进方向、提供了根本遵循。"
+      />
+
+</LinearLayout>
